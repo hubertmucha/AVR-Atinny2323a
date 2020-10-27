@@ -1,0 +1,33 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATtiny2313A"</DEVICE>
+ <WORKING_DIR>D:\Studia\S3\PN\AVR\cw_30a\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>D:/AtmelStudio\7.0\Packs\atmel\ATtiny_DFP\1.3.229\avrasm\inc</DIR>
+  <DIR>D:\AtmelStudio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>D:\Studia\S3\PN\AVR\cw_30a\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>D:/AtmelStudio\7.0\Packs\atmel\ATtiny_DFP\1.3.229\avrasm\inc\tn2313adef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>D:\Studia\S3\PN\AVR\cw_30a\Debug\cw_30a.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>cw_30a.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>cw_30a.map</FILE>
+  <FILE>cw_30a.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <MainLoop><FILE>D:\Studia\S3\PN\AVR\cw_30a\main.asm</FILE><LINE>3</LINE></MainLoop>
+  <PortsSet><FILE>D:\Studia\S3\PN\AVR\cw_30a\main.asm</FILE><LINE>27</LINE></PortsSet>
+  <DelayInMs><FILE>D:\Studia\S3\PN\AVR\cw_30a\main.asm</FILE><LINE>40</LINE></DelayInMs>
+  <Display0><FILE>D:\Studia\S3\PN\AVR\cw_30a\main.asm</FILE><LINE>33</LINE></Display0>
+  <DelayInMsLoop><FILE>D:\Studia\S3\PN\AVR\cw_30a\main.asm</FILE><LINE>43</LINE></DelayInMsLoop>
+  <DelayOneMs><FILE>D:\Studia\S3\PN\AVR\cw_30a\main.asm</FILE><LINE>51</LINE></DelayOneMs>
+  <CounterLoop><FILE>D:\Studia\S3\PN\AVR\cw_30a\main.asm</FILE><LINE>54</LINE></CounterLoop>
+ </LABELS>
+</ASSEMBLER_INFO>

@@ -1,0 +1,31 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATtiny2313A"</DEVICE>
+ <WORKING_DIR>D:\Studia\S3\PN\AVR\cw_23\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>D:/AtmelStudio\7.0\Packs\atmel\ATtiny_DFP\1.3.229\avrasm\inc</DIR>
+  <DIR>D:\AtmelStudio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>D:\Studia\S3\PN\AVR\cw_23\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>D:/AtmelStudio\7.0\Packs\atmel\ATtiny_DFP\1.3.229\avrasm\inc\tn2313adef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>D:\Studia\S3\PN\AVR\cw_23\Debug\cw_23.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>cw_23.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>cw_23.map</FILE>
+  <FILE>cw_23.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <MainLoop><FILE>D:\Studia\S3\PN\AVR\cw_23\main.asm</FILE><LINE>3</LINE></MainLoop>
+  <DelayInMs><FILE>D:\Studia\S3\PN\AVR\cw_23\main.asm</FILE><LINE>8</LINE></DelayInMs>
+  <DelayLoopInMs><FILE>D:\Studia\S3\PN\AVR\cw_23\main.asm</FILE><LINE>10</LINE></DelayLoopInMs>
+  <DelayOneMs><FILE>D:\Studia\S3\PN\AVR\cw_23\main.asm</FILE><LINE>17</LINE></DelayOneMs>
+  <DelayLoop><FILE>D:\Studia\S3\PN\AVR\cw_23\main.asm</FILE><LINE>20</LINE></DelayLoop>
+ </LABELS>
+</ASSEMBLER_INFO>

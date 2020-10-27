@@ -1,0 +1,37 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATtiny2313A"</DEVICE>
+ <WORKING_DIR>D:\Studia\S3\PN\AVR\cw_39\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>D:/AtmelStudio\7.0\Packs\atmel\ATtiny_DFP\1.3.229\avrasm\inc</DIR>
+  <DIR>D:\AtmelStudio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>D:\Studia\S3\PN\AVR\cw_39\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>D:/AtmelStudio\7.0\Packs\atmel\ATtiny_DFP\1.3.229\avrasm\inc\tn2313adef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>D:\Studia\S3\PN\AVR\cw_39\Debug\cw_39.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>cw_39.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>cw_39.map</FILE>
+  <FILE>cw_39.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <Table><FILE>D:\Studia\S3\PN\AVR\cw_39\main.asm</FILE><LINE>3</LINE></Table>
+  <DigitTo7segCode><FILE>D:\Studia\S3\PN\AVR\cw_39\main.asm</FILE><LINE>77</LINE></DigitTo7segCode>
+  <Main><FILE>D:\Studia\S3\PN\AVR\cw_39\main.asm</FILE><LINE>45</LINE></Main>
+  <DelayInMS><FILE>D:\Studia\S3\PN\AVR\cw_39\main.asm</FILE><LINE>54</LINE></DelayInMS>
+  <Main_loop><FILE>D:\Studia\S3\PN\AVR\cw_39\main.asm</FILE><LINE>55</LINE></Main_loop>
+  <DelayOneMs><FILE>D:\Studia\S3\PN\AVR\cw_39\main.asm</FILE><LINE>64</LINE></DelayOneMs>
+  <LoopMs><FILE>D:\Studia\S3\PN\AVR\cw_39\main.asm</FILE><LINE>69</LINE></LoopMs>
+  <DigitOne><FILE>D:\Studia\S3\PN\AVR\cw_39\main.asm</FILE><LINE>78</LINE></DigitOne>
+  <DigitTwo><FILE>D:\Studia\S3\PN\AVR\cw_39\main.asm</FILE><LINE>86</LINE></DigitTwo>
+  <DigitThree><FILE>D:\Studia\S3\PN\AVR\cw_39\main.asm</FILE><LINE>94</LINE></DigitThree>
+  <DigitFour><FILE>D:\Studia\S3\PN\AVR\cw_39\main.asm</FILE><LINE>102</LINE></DigitFour>
+ </LABELS>
+</ASSEMBLER_INFO>
